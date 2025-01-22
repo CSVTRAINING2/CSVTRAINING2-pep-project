@@ -3,13 +3,16 @@ package Service;
 
 // For handling SQL exceptions
 import java.sql.SQLException;
+
 // List interface
 import java.util.List;
 
 // Data access object for accounts
 import DAO.AccountDAO;
+
 // Data access object for messages
 import DAO.MessageDAO;
+
 // Message model
 import Model.Message;
 
